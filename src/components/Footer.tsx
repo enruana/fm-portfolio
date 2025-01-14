@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { githubLink, linkedInLink } from '../data/bio';
 
 export function Footer() {
   return (
@@ -41,7 +42,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li>
                 <a 
-                  href="https://github.com/enruana"
+                  href={githubLink}
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-sm text-muted-foreground hover:text-foreground"
@@ -51,7 +52,7 @@ export function Footer() {
               </li>
               <li>
                 <a 
-                  href="https://www.linkedin.com/in/felipe-mantilla-167850163/"
+                  href={linkedInLink}
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-sm text-muted-foreground hover:text-foreground"
