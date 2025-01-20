@@ -166,6 +166,22 @@ export const posts: BlogPost[] = [
       date: "2023-10",
       language: "es",
     },
+    {
+      id: 19,
+      title: "Construyendo Algo: Capítulo 6.4 - REST Ordenamiento, Filtrado y Paginación",
+      url: "https://medium.com/@felipemantillagomez/cap%C3%ADtulo-6-4-rest-ordenamiento-filtrado-y-paginaci%C3%B3n-db55c80d081f",
+      platform: "Medium",
+      date: "2023-10",
+      language: "es",
+    },
+    {
+      id: 20,
+      title: "Conecta con AI: Bases de OpenAI y TypeScript",
+      url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-y-typescript-98f41282c7a5",
+      platform: "Medium",
+      date: "2023-10",
+      language: "es",
+    },
   
     // Gorilla Articles
     {
