@@ -182,10 +182,50 @@ export const posts: BlogPost[] = [
       date: "2023-10",
       language: "es",
     },
+    {
+      id: 21,
+      title: "Conecta con AI: Bases OpenAI - Imágenes",
+      url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-imágenes-00fa97e4195f",
+      platform: "Medium",
+      date: "2023-10",
+      language: "es",
+    },
+    {
+      id: 23,
+      title: "Conecta con AI: Bases OpenAI - Audio",
+      url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-audio-90f171b0ed14",
+      platform: "Medium",
+      date: "2023-10",
+      language: "es",
+    },
+    {
+      id: 24,
+      title: "Conecta con AI: Bases OpenAI - Text to Speech & Speech to Text",
+      url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-text-to-speech-speech-to-text-bcc4646897e6",
+      platform: "Medium",
+      date: "2023-10",
+      language: "es",
+    },
+    {
+      id: 25,
+      title: "Conecta con AI: Bases OpenAI - Embeddings Fundamentos",
+      url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-embeddings-fundamentos-a012d402c01e",
+      platform: "Medium",
+      date: "2023-10",
+      language: "es",
+    },
+    {
+      id: 26,
+      title: "Conecta con AI: Bases OpenAI - Embeddings Práctica",
+      url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-embeddings-práctica-a7dda2e51f2c",
+      platform: "Medium",
+      date: "2023-10",
+      language: "es",
+    },
   
     // Gorilla Articles
     {
-      id: 19,
+      id: 22,
       title: "Behind the Scenes of Node.js",
       url: "https://gorillalogic.com/blog/behind-the-scenes-of-node.js",
       platform: "Gorilla",
@@ -209,5 +249,6 @@ export function getPostTags(title: string): string[] {
 export function getPostSeries(title: string): string | undefined {
   if (title.includes("Construyendo Algo")) return "Construyendo Algo";
   if (title.includes("Recreating NodeJS")) return "Recreating NodeJS";
+  if (title.includes("Conecta con AI")) return "Conecta con AI";
   return undefined;
 } 
