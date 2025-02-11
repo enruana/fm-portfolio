@@ -119,7 +119,7 @@ export const posts: BlogPost[] = [
         "From Client Work to Open Source: My Rollercoaster React Native Journey",
       url: "https://blog.stackademic.com/from-client-work-to-open-source-my-rollercoaster-react-native-journey-9273eba33cb0",
       platform: "Medium",
-      date: "2023-12",
+      date: "2024-12",
       language: "en",
     },
     {
@@ -128,7 +128,7 @@ export const posts: BlogPost[] = [
         "Recreating NodeJS from Scratch: Chapter 3 - V8 Hello World & Main Concepts Explained",
       url: "https://medium.com/@felipemantillagomez/recreating-nodejs-from-scratch-chapter-3-v8-hello-world-main-concepts-explained-58d58676db36",
       platform: "Medium",
-      date: "2023-12",
+      date: "2024-12",
       language: "en",
       },
     {
@@ -136,7 +136,7 @@ export const posts: BlogPost[] = [
       title: "HTTP Journey: From Request to Response",
       url: "https://blog.stackademic.com/http-journey-from-request-to-response-7b122b8e74e9",
       platform: "Medium",
-      date: "2023-11",
+      date: "2024-11",
       language: "en",
     },
     {
@@ -145,7 +145,7 @@ export const posts: BlogPost[] = [
         "Recreating NodeJS from Scratch: Chapter 2 - Compiling Google's V8 Engine on Local",
       url: "https://medium.com/@felipemantillagomez/recreating-nodejs-from-scratch-chapter-2-compiling-googles-v8-engine-on-local-c4ab57172360",
       platform: "Medium",
-      date: "2023-11",
+      date: "2024-11",
       language: "en",
     },
     {
@@ -154,7 +154,7 @@ export const posts: BlogPost[] = [
         "Recreating NodeJS from Scratch: Chapter 1 - C++ for JavaScript Developers",
       url: "https://medium.com/@felipemantillagomez/recreating-nodejs-from-scratch-chapter-1-c-for-javascript-developers-b4e0db8e1604",
       platform: "Medium",
-      date: "2023-11",
+      date: "2024-11",
       language: "en",
     },
     {
@@ -163,7 +163,7 @@ export const posts: BlogPost[] = [
         "How I Saved My Plants with an Arduino UNO: A Tale of Gardening and Automation",
       url: "https://medium.com/@felipemantillagomez/how-i-saved-my-plants-with-an-arduino-uno-a-tale-of-gardening-and-automation-e500c894c8e5",
       platform: "Medium",
-      date: "2023-10",
+      date: "2024-10",
       language: "es",
     },
     {
@@ -171,7 +171,7 @@ export const posts: BlogPost[] = [
       title: "Construyendo Algo: Capítulo 6.4 - REST Ordenamiento, Filtrado y Paginación",
       url: "https://medium.com/@felipemantillagomez/cap%C3%ADtulo-6-4-rest-ordenamiento-filtrado-y-paginaci%C3%B3n-db55c80d081f",
       platform: "Medium",
-      date: "2023-10",
+      date: "2024-10",
       language: "es",
     },
     {
@@ -179,7 +179,7 @@ export const posts: BlogPost[] = [
       title: "Conecta con AI: Bases de OpenAI y TypeScript",
       url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-y-typescript-98f41282c7a5",
       platform: "Medium",
-      date: "2023-10",
+      date: "2025-01",
       language: "es",
     },
     {
@@ -187,7 +187,7 @@ export const posts: BlogPost[] = [
       title: "Conecta con AI: Bases OpenAI - Imágenes",
       url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-imágenes-00fa97e4195f",
       platform: "Medium",
-      date: "2023-10",
+      date: "2025-01",
       language: "es",
     },
     {
@@ -195,7 +195,7 @@ export const posts: BlogPost[] = [
       title: "Conecta con AI: Bases OpenAI - Audio",
       url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-audio-90f171b0ed14",
       platform: "Medium",
-      date: "2023-10",
+      date: "2025-01",
       language: "es",
     },
     {
@@ -203,7 +203,7 @@ export const posts: BlogPost[] = [
       title: "Conecta con AI: Bases OpenAI - Text to Speech & Speech to Text",
       url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-text-to-speech-speech-to-text-bcc4646897e6",
       platform: "Medium",
-      date: "2023-10",
+      date: "2025-01",
       language: "es",
     },
     {
@@ -211,7 +211,7 @@ export const posts: BlogPost[] = [
       title: "Conecta con AI: Bases OpenAI - Embeddings Fundamentos",
       url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-embeddings-fundamentos-a012d402c01e",
       platform: "Medium",
-      date: "2023-10",
+      date: "2025-01",
       language: "es",
     },
     {
@@ -219,7 +219,7 @@ export const posts: BlogPost[] = [
       title: "Conecta con AI: Bases OpenAI - Embeddings Práctica",
       url: "https://medium.com/@felipemantillagomez/conecta-con-ai-bases-openai-embeddings-práctica-a7dda2e51f2c",
       platform: "Medium",
-      date: "2023-10",
+      date: "2025-01",
       language: "es",
     },
   
